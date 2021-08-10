@@ -6,14 +6,47 @@
     font-size: 35px;
 }
 .nav-color{
-    color: #ffd797;
+    color: #ffc107;
 }
 .text-part{
     margin-top: 250px;
 }
 .inner-text{
-    color: #ffd797;
+    color: #ffc107;
     font-weight: 700;
     font-size: 60px;
 
+}
+
+.trust-part{
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+
+.item-part{
+    margin-top: 150px;
+    margin-bottom: 80px;
+    padding: 80px;
+}
+.inner-card{
+    color: #ffc107;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+.bg-card{
+    background-color: #f4f4f4;
+}
+.feature-part{
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+.review-part{
+    margin-top: 150px;
+    margin-bottom: 80px;
+}
+.latest-part{
+    padding: 80px;
+    margin-bottom: 80px;
+    margin-top: 120px;
 }
