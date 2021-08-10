@@ -1,0 +1,19 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo-name{
+    font-weight: 700;
+    font-size: 35px;
+}
+.nav-color{
+    color: #ffd797;
+}
+.text-part{
+    margin-top: 250px;
+}
+.inner-text{
+    color: #ffd797;
+    font-weight: 700;
+    font-size: 60px;
+
+}
